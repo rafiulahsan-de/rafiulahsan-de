@@ -10,7 +10,7 @@
 
 ## About Me
 
-Results-driven marketing professional with ~2 years of experience across innovation consulting, venture concepts, and client delivery. I specialize in **HubSpot CRM, Google/Meta Ads, GTM research**, and **process automation** — turning raw data into actionable decisions and building systems that help teams work smarter.
+Results-driven marketing professional with ~2 years of full-time experience across innovation consulting, venture concepts, and client delivery. I specialize in **HubSpot CRM, Google/Meta Ads, GTM research**, and **process automation** — turning raw data into actionable decisions and building systems that help teams work smarter.
 
 Currently pursuing my **MA in Social Entrepreneurship** at Neu-Ulm University while building tools that solve real problems for internationals in Germany.
 
@@ -24,6 +24,45 @@ Currently pursuing my **MA in Social Entrepreneurship** at Neu-Ulm University wh
 | Google Ads & Meta Ads | N8N process automation | Pitch decks & proposals |
 | SQL & Power BI | Notion/Trello workflows | Competitor analysis |
 | Email marketing & SEO | Mailchimp lifecycle campaigns | Client communication & handoffs |
+
+---
+
+## Professional Experience
+
+### 🏫 Teaching Assistant — OTH Amberg-Weiden
+**Oct 2023 – Aug 2024 · Weiden, Germany**
+
+- Supported 2 English-taught modules for ~60–100 students/semester through Moodle operations, student support, and live-session troubleshooting
+- Reviewed and refined ~60–80 slides/week, improving clarity of lecture flow and assignment instructions
+- Built a 15+ Q&A Moodle FAQ/onboarding guide, reducing repetitive questions and enabling student self-service
+- Designed ~10 Mentimeter quiz questions per class to drive participation and surface comprehension gaps in real time
+- Handled ~20–30 student questions/week, resolving blockers on assignments and platform usage with fast turnaround
+- Troubleshot hybrid-class tech (Zoom, screen sharing, audio) to prevent disruption and keep sessions running smoothly
+- Standardized course operations in Moodle: submission links, deadlines, instructions, and version control of materials
+- Tracked attendance in Google Sheets and maintained reusable templates (FAQ + attendance) for consistency
+
+### 📈 Marketing Associate — GAPS Bangla
+**May 2019 – Nov 2021 · Dhaka, Bangladesh**
+
+- Drove go-to-market execution across innovation consulting, venture-building concepts, and client delivery
+- Built and delivered ~20 pitch decks and investor/client-facing presentations, turning complex concepts into decision-ready narratives
+- Produced 60+ proposals and commercial packages; contributed to 20+ won projects via reusable templates and standardized formats
+- Ran structured lead qualification from performance marketing (Meta/Google), handling ~30–50 warm-lead calls/day
+- Led market research and competitor analysis for digital platform concepts across education, healthcare, and public-sector mobility
+- Improved delivery reliability by tightening project handoffs, checklists, and reporting — consistently delivering ~1 week ahead of deadline
+- Managed client-facing communication loops: meeting notes, decisions → next steps, and structured follow-ups
+
+---
+
+## Education
+
+| Degree | Institution | Period |
+|--------|-------------|--------|
+| 🎓 **MA Social Entrepreneurship for Sustainable Development** | Neu-Ulm University of Applied Sciences, Germany | Mar 2025 – Feb 2027 |
+| 🎓 **MA International Management & Sustainability** | OTH Amberg-Weiden, Germany | Mar 2022 – Sep 2024 |
+| 🎓 **BBA in Marketing** | Bangladesh University of Business & Technology, Dhaka | May 2012 – Nov 2016 |
+
+**Specializations:** Marketing operations · Data-driven decision-making · Process optimization · B2B marketing · Go-to-market strategy · Market research
 
 ---
 
@@ -74,12 +113,20 @@ Currently pursuing my **MA in Social Entrepreneurship** at Neu-Ulm University wh
 ![Notion](https://img.shields.io/badge/Notion-6366F1?style=flat&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-6366F1?style=flat&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-6366F1?style=flat&logo=jira&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-6366F1?style=flat&logo=google&logoColor=white)
 
 **Content & Design**
 
 ![Canva](https://img.shields.io/badge/Canva-475569?style=flat&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-475569?style=flat&logo=figma&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-475569?style=flat&logo=microsoftpowerpoint&logoColor=white)
+
+**Channels**
+
+![SEO](https://img.shields.io/badge/SEO-475569?style=flat&logo=google&logoColor=white)
+![Email Marketing](https://img.shields.io/badge/Email%20Marketing-475569?style=flat&logo=gmail&logoColor=white)
+![Social Media](https://img.shields.io/badge/Social%20Media-475569?style=flat&logo=buffer&logoColor=white)
+![Paid Acquisition](https://img.shields.io/badge/Paid%20Acquisition-475569?style=flat&logo=googleads&logoColor=white)
 
 ---
 
@@ -88,6 +135,16 @@ Currently pursuing my **MA in Social Entrepreneurship** at Neu-Ulm University wh
 🏅 **SAP Customer Experience (CX)** — SAP Learning *(in progress, expected 05/2026)*  
 🏅 **Positioning SAP Business AI** — SAP *(2026)*  
 🏅 **HubSpot Inbound Marketing** — HubSpot Academy *(12/2025)*
+
+---
+
+## Languages
+
+| Language | Level |
+|----------|-------|
+| 🇬🇧 English | Professional fluency |
+| 🇩🇪 German | B1 |
+| 🇧🇩 Bengali | Native |
 
 ---
 
